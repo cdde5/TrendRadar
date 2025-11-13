@@ -1,119 +1,4 @@
-AI enterprise
-AI transformation
-enterprise AI
-AI in business
-generative AI adoption
-+enterprise
-+application
-!gaming
-!crypto
-
-AI report
-AI whitepaper
-industry report AI
-market research AI
-McKinsey AI
-Gartner AI
-Deloitte AI
-+report
-+analysis
-!job posting
-!education promo
-
-AI news
-artificial intelligence news
-latest AI update
-AI breakthrough
-AI regulation
-AI governance
-OpenAI update
-Anthropic news
-DeepMind research
-+news
-!crypto token
-!celebrity gossip
-
-AI investing
-AI startup
-AI funding
-AI venture capital
-a16z AI
-Sequoia AI
-Index Ventures AI
-Greylock AI
-AI market trend
-+startup
-+VC
-+funding
-!real estate
-!NFT
-
-Hacker News
-HN top
-HN discussion
-tech trend
-AI developer tools
-AI productivity tools
-+Hacker
-+News
-!ads
-!promo
-
-AI strategy
-enterprise automation
-AI adoption case study
-AI business model
-AI ROI
-AI impact enterprise
-digital transformation AI
-+strategy
-+enterprise
-!consumer gadget
-!lifestyle
-
-future of work AI
-AI productivity
-work automation AI
-AI skills
-job transformation AI
-+future
-+work
-!resume service
-
-personal growth
-growth mindset
-leadership mindset
-self improvement
-productivity system
-Atomic Habits
-career development
-+mindset
-+growth
-!fitness
-!diet
-
-personal growth
-growth mindset
-leadership mindset
-self improvement
-productivity system
-Atomic Habits
-career development
-+mindset
-+growth
-!fitness
-!diet
-
-MIT Technology Review AI
-WIRED AI
-Bloomberg AI
-Reuters AI
-Financial Times AI
-The Information AI
-Forbes AI
-+AI
-+analysis
-
+# ====== YC / Startup Ecosystem ======
 Y Combinator
 YC startup
 YC batch
@@ -127,6 +12,146 @@ Sequoia startup
 +startup
 !crypto scam
 
+# ====== AI Enterprise Applications ======
+enterprise AI
+AI enterprise application
+AI transformation
+AI business adoption
+generative AI for enterprise
+AI workflow automation
+AI digital transformation
+AI in operations
++enterprise
++application
+!gaming
+!crypto
+
+# ====== AI Industry Reports ======
+AI industry report
+AI whitepaper
+McKinsey AI report
+Gartner AI
+Deloitte AI
+PwC AI report
+market research AI
+global AI outlook
++report
++analysis
+!job listing
+
+# ====== AI Breaking News (Global) ======
+AI news
+AI update
+breaking AI
+OpenAI news
+Apple AI
+Anthropic AI
+Google DeepMind
+AI research breakthrough
+AI model release
++news
+!entertainment
+
+# ====== AI Investment / VC ======
+AI startup funding
+AI venture capital
+a16z AI
+Sequoia AI investment
+Index Ventures AI
+Founders Fund AI
+AI investment trend
+AI valuation
++funding
++AI
+!stock tips
+
+# ====== Hacker News / Tech Pulse ======
+Hacker News
+HN top
+HN discussion
+HN startup
+tech trend
+developer tools trending
++Hacker
++News
+!gaming ad
+
+# ====== AI Developer Ecosystem ======
+AI engineering
+LLM engineering
+AI agent framework
+AI code assistant
+GitHub Copilot
+Cursor AI
+Windsurf AI
+Claude Code
+OpenAI API
++developer
++AI
+
+# ====== Enterprise AI Strategy ======
+AI strategy
+enterprise AI roadmap
+AI ROI
+AI business model
+AI case study enterprise
+automation strategy
+digital transformation AI
++strategy
++enterprise
+
+# ====== Future of Work ======
+future of work AI
+AI productivity
+workflow automation
+AI skills shift
+AI job transformation
++future
++work
+
+# ====== Personal Growth / MyRiseCoach ======
+personal growth
+growth mindset
+leadership mindset
+self awareness
+decision making skills
+behavioral psychology
+motivation psychology
+habit formation
+Atomic Habits
++growth
++mindset
+!relationship gossip
+
+# ====== Productivity Systems ======
+productivity system
+time management
+second brain
+learning system
+knowledge management
++productivity
+
+# ====== AI Daily 专属 ======
+AI daily update
+AI weekly roundup
+AI industry digest
+global AI news summary
+enterprise AI highlights
++daily
++AI
+
+# ====== AI Programming Education ======
+AI programming
+AI coding tools
+AI for beginners
+AI learning path
+LLM for coding
+serverless basics
+compute fundamentals
++programming
++AI
+
+# ====== LinkBoost / SEO ======
 SEO trend
 backlink strategy
 Google search ranking
@@ -134,24 +159,21 @@ content distribution
 domain authority growth
 organic traffic growth
 +SEO
-!affiliate scam
 
-leadership mindset
-behavioral psychology
-coaching model
-self-awareness
-decision psychology
-motivation psychology
-habit formation
-+leadership
-+growth
-!relationship gossip
-
-MIT Technology Review AI
-The Information AI
-Bloomberg AI
-Financial Times AI
-Reuters AI
-WIRED AI
+# ====== AI Tools / API Hub ======
+AI tool comparison
+LLM benchmark
+API performance
+AI model evaluation
+AI tools roundup
 +AI
-+analysis
++tool
+
+# ====== Global Business / Tech Trend ======
+business trend
+digital economy
+innovation trend
+industry disruption
+global tech analysis
++business
++tech
