@@ -1,113 +1,157 @@
-胖东来
-于东来
+AI enterprise
+AI transformation
+enterprise AI
+AI in business
+generative AI adoption
++enterprise
++application
+!gaming
+!crypto
 
-DeepSeek
-梁文锋
+AI report
+AI whitepaper
+industry report AI
+market research AI
+McKinsey AI
+Gartner AI
+Deloitte AI
++report
++analysis
+!job posting
+!education promo
 
-华为
-鸿蒙
-HarmonyOS
-任正非
+AI news
+artificial intelligence news
+latest AI update
+AI breakthrough
+AI regulation
+AI governance
+OpenAI update
+Anthropic news
+DeepMind research
++news
+!crypto token
+!celebrity gossip
 
-比亚迪
-王传福
+AI investing
+AI startup
+AI funding
+AI venture capital
+a16z AI
+Sequoia AI
+Index Ventures AI
+Greylock AI
+AI market trend
++startup
++VC
++funding
+!real estate
+!NFT
 
-大疆
-DJI
+Hacker News
+HN top
+HN discussion
+tech trend
+AI developer tools
+AI productivity tools
++Hacker
++News
+!ads
+!promo
 
-宇树
-王兴兴
+AI strategy
+enterprise automation
+AI adoption case study
+AI business model
+AI ROI
+AI impact enterprise
+digital transformation AI
++strategy
++enterprise
+!consumer gadget
+!lifestyle
 
-智元
-灵犀
-稚晖君
-彭志辉
+future of work AI
+AI productivity
+work automation AI
+AI skills
+job transformation AI
++future
++work
+!resume service
 
-黑神话
-冯骥
+personal growth
+growth mindset
+leadership mindset
+self improvement
+productivity system
+Atomic Habits
+career development
++mindset
++growth
+!fitness
+!diet
 
-影之刃零
-梁其伟
+personal growth
+growth mindset
+leadership mindset
+self improvement
+productivity system
+Atomic Habits
+career development
++mindset
++growth
+!fitness
+!diet
 
-哪吒
-饺子
-杨宇
-!车
-!餐
+MIT Technology Review AI
+WIRED AI
+Bloomberg AI
+Reuters AI
+Financial Times AI
+The Information AI
+Forbes AI
++AI
++analysis
 
-三体
-流浪地球
-刘慈欣
-郭帆
+Y Combinator
+YC startup
+YC batch
+YC demo day
+YC founder insights
+startup ideas
+startup trend
+startup growth
+a16z startup
+Sequoia startup
++startup
+!crypto scam
 
-申奥
+SEO trend
+backlink strategy
+Google search ranking
+content distribution
+domain authority growth
+organic traffic growth
++SEO
+!affiliate scam
 
-京东
-刘强东
+leadership mindset
+behavioral psychology
+coaching model
+self-awareness
+decision psychology
+motivation psychology
+habit formation
++leadership
++growth
+!relationship gossip
 
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
-人工智能
-
-自动驾驶
-
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
-科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
+MIT Technology Review AI
+The Information AI
+Bloomberg AI
+Financial Times AI
+Reuters AI
+WIRED AI
++AI
++analysis
