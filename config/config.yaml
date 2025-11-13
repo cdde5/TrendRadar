@@ -7,6 +7,20 @@ crawler:
   enable_crawler: true # 是否启用爬取新闻功能，如果 false，则直接停止程序
   use_proxy: false # 是否启用代理，false 时为关闭
   default_proxy: "http://127.0.0.1:10086"
+  feeds:
+    # 海外科技新闻 RSS
+    - https://news.ycombinator.com/rss
+    - https://www.reddit.com/r/technology/.rss
+    - https://feeds.feedburner.com/TechCrunch/
+    - https://www.wired.com/feed/rss
+    - https://www.reutersagency.com/feed/?best-topics=technology
+    - https://www.bloomberg.com/feeds/bbiz/news/technology.xml
+    - https://www.ft.com/rss/technology
+    - https://www.theverge.com/rss/index.xml
+
+    # 中文科技媒体 RSS（可选）
+    - https://www.jiqizhixin.com/rss
+    - https://www.ifanr.com/feed
 
 # 🔸 daily（当日汇总模式）
 #   • 推送时机：按时推送(默认每小时推送一次)
